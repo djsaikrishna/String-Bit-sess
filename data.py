@@ -50,7 +50,7 @@ By dococ2022
     ABOUT = """
 **About This Bot** 
 
-Telegram Bot to generate Pyrogram and Telethon string session by @StarkBots
+Telegram Bot to generate Pyrogram and Telethon string session by dococ2022
 
 Source Code : [Click Here](www.bangbros.com)
 
